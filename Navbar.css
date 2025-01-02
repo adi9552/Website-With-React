@@ -1,0 +1,9 @@
+nav{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 4rem;
+    width: 100%;
+    box-shadow: 1px 1px 1px black;
+}
